@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Saay2</string>
+
+    <string name="connectionError">Error connecting to the internet</string>
+    <string name="serverError">Internal server error</string>
+    <string name="authenticationError">An authentication error has occurred</string>
+    <string name="offline_message">You seem to be offline, do you want to enable internet connection now ?</string>
+    <string name="filter">Type to Filter ..</string>
+    <string name="keyhash">ga0RGNYHvNM5d0SLGQfpQWAPGJ8=</string>
+    <string name="facebook_app_id">2086440121591453</string>
+    <string name="fb_login_protocol_scheme">fb2086440121591453</string>
+    <string name="oauth_redirect_uri">https://saay-cd6e2.firebaseapp.com/__/auth/handler</string>
+</resources>
